@@ -4,7 +4,7 @@ Chapter 12. Service mesh
 TECH UNIVERSITY OF KOREA
 
 Lee youngkon
-01. Need for service mesh
+## 01. Need for service mesh
 A problem situation
 Increased microservices $\rightarrow$ Increased communication complexity1
 Call path between services unclear2
